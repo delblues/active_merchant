@@ -370,6 +370,11 @@ itransact:
   password: API_ACCESS_KEY
   gateway_id: GATEWAY_ID
 
+# This is a test key, and could be deleted.
+# Generate your own test key at iugu.com.
+iugu:
+  login: dbb1f4d4603317cbdd790ae8f07d3d71
+
 jetpay:
   login: TESTTERMINAL
 
